@@ -1,9 +1,10 @@
-Load,1
+Load,1,Start
+1
 
-#start
-
-16,180.6,X
-13,180.6
+#Start
+1,180,J
+15,180,X
+17,180
 1,320
 9,180
 24,180,J
@@ -15,10 +16,7 @@ Load,1
 5,180
 2
 1,317
-8,180
-#remove when bug is fixed
-1,180,J
-#required to buffer a frame so that buffer is consumed?
+9,180
 22,180,J
 12,180,K
 16,180,X
@@ -68,4 +66,4 @@ Load,1
 
 1000
 
-ChapterTime: 0:14.299(858)
+ChapterTime: 0:14.863(863)
